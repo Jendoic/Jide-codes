@@ -23,9 +23,9 @@ I'm a passionate software engineer with a strong focus on backend engineering. I
 
 ## Stats 🚀
 <br>
-![jendoic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jendoic&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![Report](https://github-readme-stats.vercel.app/api?username=Olamilekan002)
+
+![jendoic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jendoic&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan002&" alt="Olamilekan002" /></p>
 
