@@ -27,10 +27,10 @@ I'm a passionate software engineer with a strong focus on backend engineering. I
 
 ![jendoic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jendoic&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olamilekan002&" alt="Olamilekan002" /></p>
 
-![Trophys](https://github-profile-trophy.vercel.app/?username=Olamilekan002)
-![Summary](https://activity-graph.herokuapp.com/graph?username=Olamilekan002&theme=minimal)
+
+![jendoic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jendoic&theme=vue-dark&hide_border=true)
+![jendoic's Stats](https://github-readme-stats.vercel.app/api?username=jendoic&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <br/>
 
